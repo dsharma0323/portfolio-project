@@ -76,3 +76,25 @@ the following form: YYYY.0M.0D.
 [unreleased]: https://github.com/jrg94/portfolio-project/compare/v2024.08.07...HEAD
 [2024.08.07]: https://github.com/jrg94/portfolio-project/compare/v2024.01.07...v2024.08.07
 [2024.01.07]: https://github.com/jrg94/portfolio-project/releases/tag/v2024.01.07
+
+
+## 2025.10.11
+
+### Added
+
+- Designed a CalorieTracker component
+- Designed a BudgetTracker component
+- Designed a SleepTracker component
+
+## 2025.10.17
+
+### Added
+
+- Made a proof of concept for CalorieTracker component
+
+
+ ## 2025.11.06
+
+### Added
+- Created CalorieTrackerSecondary abstract class implementing all secondary methods using kernel methods
+- Added common methods
