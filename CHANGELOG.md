@@ -93,7 +93,7 @@ the following form: YYYY.0M.0D.
 - Made a proof of concept for CalorieTracker component
 
 
- ## 2025.10.23
+ ## 2025.11.06
 
 ### Added
 - Created CalorieTrackerSecondary abstract class implementing all secondary methods using kernel methods
