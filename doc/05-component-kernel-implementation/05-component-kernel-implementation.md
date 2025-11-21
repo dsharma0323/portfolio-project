@@ -120,7 +120,6 @@ Below is further rationale/explanation for the rubric items above:
 > discuss how that representation will be restricted (i.e., by convention)
 > and interpreted (i.e., by correspondence).
 
-<!-- TODO: select a representation and explain why -->
 For my CalorieTracker component, I chose to represent the internal state using a single int that stores the total calories 
 consumed. This keeps the implementation efficient and easy to update.
 
