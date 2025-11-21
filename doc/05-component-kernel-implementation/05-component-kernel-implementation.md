@@ -121,6 +121,9 @@ Below is further rationale/explanation for the rubric items above:
 > and interpreted (i.e., by correspondence).
 
 <!-- TODO: select a representation and explain why -->
+For my CalorieTracker component, I chose to represent the internal state using a single int that stores the total calories 
+consumed. This keeps the implementation efficient and easy to update.
+
 
 > To start making your kernel implementation, make a branch off of main in your
 > new repo called something like `kernel-implementation`. There are many ways to
@@ -142,7 +145,7 @@ Below is further rationale/explanation for the rubric items above:
 > rebase strategies described [here](https://stackoverflow.com/questions/35790561/working-while-waiting-for-pending-pr)
 > and [here](https://stackoverflow.com/questions/18021888/continue-working-on-a-git-branch-after-making-a-pull-request).
 
-<!-- TODO: make a new branch from main then delete this comment -->
+
 
 ## Assignment Tasks
 
@@ -163,7 +166,7 @@ completed the assignment.
 
 ### Changelog
 
-<!-- TODO: update CHANGELOG then delete this comment -->
+
 
 At the end of every assignment, you should update the
 [CHANGELOG.md](../../CHANGELOG.md) file found in the root of the project folder.
