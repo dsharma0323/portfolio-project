@@ -6,6 +6,37 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/) of
 the following form: YYYY.0M.0D.
 
+## 2025.11.21
+
+### Added
+- Designed kernel implementation for CalorieTracker component
+
+
+
+ ## 2025.11.06
+
+### Added
+- Created CalorieTrackerSecondary abstract class implementing all secondary methods using kernel methods
+- Added common methods
+
+
+## 2025.10.17
+
+### Added
+
+- Made a proof of concept for CalorieTracker component
+
+
+## 2025.10.11
+
+### Added
+
+- Designed a CalorieTracker component
+- Designed a BudgetTracker component
+- Designed a SleepTracker component
+
+
+
 ## [Unreleased]
 
 ## [2024.12.30]
@@ -78,23 +109,3 @@ the following form: YYYY.0M.0D.
 [2024.01.07]: https://github.com/jrg94/portfolio-project/releases/tag/v2024.01.07
 
 
-## 2025.10.11
-
-### Added
-
-- Designed a CalorieTracker component
-- Designed a BudgetTracker component
-- Designed a SleepTracker component
-
-## 2025.10.17
-
-### Added
-
-- Made a proof of concept for CalorieTracker component
-
-
- ## 2025.11.06
-
-### Added
-- Created CalorieTrackerSecondary abstract class implementing all secondary methods using kernel methods
-- Added common methods
