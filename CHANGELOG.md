@@ -1,5 +1,18 @@
 # Changelog
 
+## 2025.12.10
+
+### Added
+- implemented JUnit tests for the CalorieTracker component
+
+### Updated
+- updated components-finishing-touches and answered the reflection questions 
+- Improved the method implementations 
+
+
+
+
+
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
